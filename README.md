@@ -7,6 +7,6 @@ This repository is the home Jupyter notebooks and Python code for exploring matc
 
 ### System Under Study Block Diagram
 
-<img src="/Users/mwickert/Documents/Projects/Matched_Filter_Mismatch_Losses/images/Block1.png" style="zoom:40%;" />
+<img src="images/Block1.png" style="zoom:40%;" />
 
 The content is still being organized, but the core notebook for generating the results of the Scipy 2020 conference proceedings paper is in place in the notebooks folder. A support python module, `MF_mismatch_helper.py`, is contained in this module, but the use of it will go away once updates to `scikit-dsp-comm` are pushed.
