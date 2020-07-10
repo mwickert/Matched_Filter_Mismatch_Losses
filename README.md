@@ -9,4 +9,4 @@ This repository is the home Jupyter notebooks and Python code for exploring matc
 
 <img src="images/Block1.png" width="40%" height="40%" />
 
-The content is still being organized, but the core notebook for generating the results of the Scipy 2020 conference proceedings paper is in place in the notebooks folder. A support python module, `MF_mismatch_helper.py`, is contained in this module, but the use of it will go away once updates to `scikit-dsp-comm` are pushed.
+The content is still being organized, but the core notebook for generating the results of the Scipy 2020 conference proceedings paper is in place in the notebooks folder. A support python module, `MF_mismatch_helper.py`, will be repurposed as I will soon move the classes `MPSK_sa_BEP` and `MQAM_sa_BEP` out of the notebook and into this module.
