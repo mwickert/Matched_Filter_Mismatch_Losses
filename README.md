@@ -13,6 +13,6 @@ The content is still being organized, but the core notebook for generating the r
 
 ### Heatmaps that Summarize Mismatch BEP Degradation
 
-<img src="images/MPSK_heatmap.png" width="40%" height="40%" />
+<img src="images/MPSK_heatmap.png" width="80%" height="80%" />
 
-<img src="images/MQAM_heatmap.png" width="40%" height="40%" />
+<img src="images/MQAM_heatmap.png" width="80%" height="80%" />
