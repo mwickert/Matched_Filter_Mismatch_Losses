@@ -12,7 +12,8 @@ This repository is the home Jupyter notebooks and Python code for exploring matc
 The content is still being organized, but the core notebook for generating the results of the Scipy 2020 conference proceedings paper is in place in the notebooks folder. A support python module, `MF_mismatch_helper.py`, will be repurposed as I will soon move the classes `MPSK_sa_BEP` and `MQAM_sa_BEP` out of the notebook and into this module.
 
 ### Heatmaps that Summarize Mismatch BEP Degradation
-
+#### MPSK
 <img src="images/MPSK_heatmap.png" width="80%" height="80%" />
 
+#### MQAM
 <img src="images/MQAM_heatmap.png" width="80%" height="80%" />
